@@ -18,7 +18,7 @@ stackoverflow-Java-top-qa
 - 文档的文件名，和stackoverflowhich-notnull-java-annotation-should-i-usew上的url保持一致。例如，http://stackoverflow.com/questions/8710619/java-operator 的文件名， 就是java-operator.md
 - 在每篇翻译文档内容的最后，要附上stackoverflow的原文链接
 
-####每个人可以做（但不限于）：
+#### 每个人可以做（但不限于）：
 - 找未翻译的问题进行翻译
 - 优化已翻译的问题
 - 输出问答精简汇总版（把所有的问答集中到一个md文件，然后尽量精简，让别人可以在一天内把这100个问题的精髓都看完）
